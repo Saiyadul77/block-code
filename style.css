@@ -1,0 +1,9 @@
+.block-level{
+    display: flex;
+}
+.width-size{
+    width: 50%;
+}
+.width-size img{
+    width: 50%;
+}
